@@ -28,6 +28,7 @@ TextShield is an Android application designed for secure communication. Using th
 
 <div align="center">
   <img src="Screenshots/DecryptMess.jpg" alt="Screenshot 5" width="300" style = "margin: 10px" />
+</div>
 
 
 
